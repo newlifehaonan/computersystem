@@ -7,7 +7,7 @@ CSC 406 SYSTEM I
 -----
 *This is also a file of testing MARKDOWN language*      
 
-* **this is list 1**  
+* **this is list 1**     
 *this is italic*           
 **this is bold**    
 
