@@ -7,8 +7,8 @@ CSC 406 SYSTEM I
 -----
 ### This is also a file of testing MARKDOWN language
 
-  void main ()
-  {
-  print("Hello Markdown");
-  }
+    void main ()
+    {
+    print("Hello Markdown");
+    }
 
