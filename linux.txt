@@ -161,12 +161,16 @@ htop is a good tool
 
 
 =======github=======
-  502  git init
-  503  git add README.md
-  504  git commit -m "first commit"
-  505  git remote add origin https://github.com/newlifehaonan/computersystem.git
-  506  git push -u origin master
-  507  history
+  1. get repository to your local machine
+     git clone [address]
+  2. add your file to the repository
+     by simply drag the file into it
+  3. upload your file
+     git status ( check what if any file is untracked)
+     git add filename.txt
+     git commit -m "your command"
+     git push ( final step to uplaod the file)
+ 
 ======
 
 
