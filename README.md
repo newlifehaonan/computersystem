@@ -36,7 +36,7 @@ public static void main(){
 }
 ```
 
-``` sql
+``` plsql
 declare
     v varchar2(20) := "hello sql";
 begain
