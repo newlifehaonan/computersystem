@@ -43,5 +43,9 @@ begain
     dbms_output.put_line(v);
 end;
 ```
-
+```python
+def test():
+    print("hello python")
+```
+    
 
