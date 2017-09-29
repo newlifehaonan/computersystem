@@ -72,8 +72,8 @@ CSS        |   6          |
 
 * **This is list 8**      
 if you want some math      
-X_{i+1} = X_i + 2
-Y = X^{Z+1}
+X_{i+1 = X_{i + 2
+Y = X^{Z+1
 
 
 
