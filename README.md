@@ -7,9 +7,10 @@ CSC 406 SYSTEM I
 -----
 *This is also a file of testing MARKDOWN language*      
 
-* **This is list 1**     
-*This is italic*           
-**This is bold**    
+* **This is list 1**    
+>*This is how you quote*
+>*This is italic*           
+>**This is bold**    
 
 
     void main ()
