@@ -8,7 +8,8 @@ unsigned: 1 - 2 = 255
 signed: 127 + 1 = -128       
 signed" -128 -1 = 127      
 
-##floating point numbers    
+floating point numbers
+------------
 
 * FP have integral portion and a fractional portion    
 * any number can be repressent as scientific notation      
