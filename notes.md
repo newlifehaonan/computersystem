@@ -35,5 +35,6 @@ b base
 si sourse : where is the position of the source      
 di disgnator        
 
-* assembly commmand        
-movq         
+assembly commmand
+-----------
+* movq         
