@@ -60,14 +60,15 @@ if you want send email to me
 
 * **This is list 7**
 if you want to make a simple form
+
 Language   | complexity   | status
 :--------: | :----------: | :------:
-C          |   1          |- [x]       
-C++        |      2       |- [x]         
-JAVA       |          3   |- [x]          
-Python     |         4    |- [x]        
-SQL        |      5       |- [x]           
-CSS        |   6          |- [x]            
+C          |   1          |      
+C++        |      2       |         
+JAVA       |          3   |         
+Python     |         4    |       
+SQL        |      5       |          
+CSS        |   6          |           
 
 
 
