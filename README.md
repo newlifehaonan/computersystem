@@ -70,8 +70,9 @@ Python     |         4    |
 SQL        |      5       |          
 CSS        |   6          |           
 
-* **This is list 8**      
-if you want to display a photo     
+* **This is list 8**       
+if you want to display a photo        
+
 ![my profile photo](https://avatars2.githubusercontent.com/u/32348307?v=4&s=400&u=8851d208b8e8e3b8d5b63c3ef8824697cc186e70 "这是我的头像")
 
 
