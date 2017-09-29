@@ -19,12 +19,12 @@ CSC 406 SYSTEM I
     }
 
 * **This is list 2**     
-**This is how to make it a link**    
-[THIS IS MY GitGub](https://github.com/newlifehaonan)     
-[Anothervision of my homepage][1]      
-[1]:https://github.com/newlifehaonan
+>**This is how to make it a link**    
+    [THIS IS MY GitGub](https://github.com/newlifehaonan)     
+    [Anothervision of my homepage][1]      
+    [1]:https://github.com/newlifehaonan
 
 * **This is list 3**
-if you want to highlet something like `ctrl+c` :)
+>if you want to highlet something like `ctrl+c` :)
 
 
