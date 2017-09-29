@@ -36,4 +36,12 @@ public static void main(){
 }
 ```
 
+``` sql
+declare
+    v varchar2(20) := "hello sql";
+begain
+    dbms_output.put_line(v);
+end;
+```
+
 
