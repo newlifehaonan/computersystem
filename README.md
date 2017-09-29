@@ -7,9 +7,9 @@ CSC 406 SYSTEM I
 -----
 *This is also a file of testing MARKDOWN language*      
 
-* **this is list 1**     
-*this is italic*           
-**this is bold**    
+* **This is list 1**     
+*This is italic*           
+**This is bold**    
 
 
     void main ()
@@ -17,8 +17,9 @@ CSC 406 SYSTEM I
     print("Hello Markdown");
     }
 
-* **this is list 2**     
-**this is how to make it a link**    
+* **This is list 2**     
+**This is how to make it a link**    
 [THIS IS MY GitGub](https://github.com/newlifehaonan)。
+[Anothervision of my homepage][1](https://github.com/newlifehaonan)。
 
 
