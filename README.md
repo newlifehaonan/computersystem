@@ -9,7 +9,7 @@ CSC 406 SYSTEM I
 >Basic Introduction of Computer System and Components     
 >How to set up Ubuntu server
 >>Using Virtual Machine (VM)     
->>Using AWS EC2
+>>Using AWS EC2        
 >Basic Linux Command        
 >C       
 >Basic conversion between Decimal, Binary and Hexdicimal
