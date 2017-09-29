@@ -55,11 +55,11 @@ Am I handsome :)
 - [x] yes
 
 * **This is list 6**
-if you want send email to me 
-><hereisthelink@fake.com>
+if you want send email to me         
+><hereisthelink@fake.com> 
 
 * **This is list 7**
-if you want to make a simple form
+if you want to make a simple form       
 
 Language   | complexity   | status
 :--------: | :----------: | :------:
@@ -69,6 +69,11 @@ JAVA       |          3   |
 Python     |         4    |       
 SQL        |      5       |          
 CSS        |   6          |           
+
+* **This is list 8**      
+if you want some math      
+>X_{i+1} = X_i + 2
+>Y = X^{Z+1}
 
 
 
