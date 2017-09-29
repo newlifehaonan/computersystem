@@ -25,10 +25,10 @@ CSC 406 SYSTEM I
 
 
 * **Week4**
->Float repressentation
->Microcomputer architecture
->Machine repressenation 
->>Assembly code
+>Float repressentation     
+>Microcomputer architecture     
+>Machine repressenation      
+>>Assembly code     
 
       
 
