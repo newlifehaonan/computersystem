@@ -55,11 +55,11 @@ Am I handsome :)
 - [x] yes
 
 * **This is list 6**
-if you want send email to me         
+>if you want send email to me         
 ><hereisthelink@fake.com> 
 
 * **This is list 7**
-if you want to make a simple form       
+>if you want to make a simple form       
 
 Language   | complexity   | status
 :--------: | :----------: | :------:
@@ -71,7 +71,7 @@ SQL        |      5       |
 CSS        |   6          |           
 
 * **This is list 8**            
-if you want to display a photo        
+>if you want to display a photo        
 
 ![my profile photo](https://avatars2.githubusercontent.com/u/32348307?v=4&s=400&u=8851d208b8e8e3b8d5b63c3ef8824697cc186e70 "这是我的头像")
 
