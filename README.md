@@ -23,7 +23,8 @@ CSC 406 SYSTEM I
 >[THIS IS MY GitGub](https://github.com/newlifehaonan)     
 >[Anothervision of my homepage][1]      
 >[1]:https://github.com/newlifehaonan
-><Thisismyemail@gmail.com>
+
+
 
 * **This is list 3**
 >if you want to highlet something like `ctrl+c` :)
@@ -52,6 +53,22 @@ def test():
 Am I handsome :)            
 - [ ] no
 - [x] yes
+
+* **This is list 6**
+if you want send email to me 
+><hereisthelink@fake.com>
+
+* **This is list 7**
+if you want to make a simple form
+Language   | complexity   | status
+:--------: | :----------: | :------:
+C          |   1          |- [x]       
+C++        |      2       |- [x]         
+JAVA       |          3   |- [x]          
+Python     |         4    |- [x]        
+SQL        |      5       |- [x]           
+CSS        |   6          |- [x]            
+
 
 
     
