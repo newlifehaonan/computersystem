@@ -70,9 +70,10 @@ Python     |         4    |
 SQL        |      5       |          
 CSS        |   6          |           
 
-* **This is list 8**      
-if you want some math                
-x^{y^z}=(1+{\rm e}^x)^{-2xy^w}
+* **This is list 8**      
+if you want to display a photo     
+
+
 
 
 
