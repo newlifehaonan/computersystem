@@ -30,7 +30,10 @@ CSC 406 SYSTEM I
 >Machine repressenation
 >>Assembly code     
 
-      
+* **Week5**
+>assembly operand
+
+
 
 
 
