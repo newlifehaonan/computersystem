@@ -92,7 +92,8 @@ unsigned      |32     |0    |0|2^32 -1|0xffffffff
 long          |64     |-2^61|0x8000000000000000|-2^61 - 1|0x7fffffffffffffff
 unsigned  long|64     |0    |0|2^64 -1|0xffffffffffffffff
 
-* Conversion between different datatype     
+* Conversion between different datatype   
+  **In C, if you compare different datatype, C will cast the datatype implicitly**
   * Binary to Unsigned
   $$B2U_4([1011]) = 2^3 + 2^1 + 2^0 = 11$$
   * Binary to 2 complement encoding
