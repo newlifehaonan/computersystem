@@ -69,7 +69,7 @@ operator | a | b | result
 * Shift operator
 
 operator | sign | unsign
-:--: | :--: | :--: | :--:
+:------: | :--: | :--: 
 &gt;&gt;|preserve sign bit |0
 &lt;&lt;|0|0		
 
