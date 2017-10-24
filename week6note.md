@@ -84,7 +84,7 @@ jump to a different address for the next instruction to be execute !
   * jump Lable       
   direct jump: `jump L1`;      
   indirect jump: `jump \*%rax`;      
-  * conditional jump
+  * conditional jump     
   conditional jump can only be direct !      
   `jump label`: jump unconditionally       
   `je`: jump when equal      
