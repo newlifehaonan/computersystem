@@ -33,7 +33,11 @@ CSC 406 SYSTEM I
 * **Week5**
 >assembly operand
 
+* **Week6**
+>
 
+* **Week7**
+>
 
 
 
