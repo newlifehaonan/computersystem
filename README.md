@@ -34,34 +34,24 @@ CSC 406 SYSTEM I
 >assembly operand
 
 * **Week6**
->Control Flag
-
->Comparable Operand and test Operand
-
->How to use Control flag repressent conditional statement
-
->How to use conditional jump and unconditional jump
-
+>Control Flag     
+>Comparable Operand and test Operand      
+>How to use Control flag repressent conditional statement      
+>How to use conditional jump and unconditional jump       
 
 * **Week7**
->Control statement in assembly
-
->>if
-
->>if else
-
->>do..while
-
->>while
-
->>for
-
->>switch
+>Control statement in assembly        
+>>if       
+>>if else       
+>>do..while        
+>>while       
+>>for       
+>>switch       
 
 * **Week8**
->Array
->hetergeneous structur
->procedure
+>Array     
+>hetergeneous structur      
+>procedure       
 
 
 
