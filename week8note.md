@@ -31,7 +31,7 @@
   `example: Procedure P calls Procedure Q`        
   * Procedure should contain address of Procedure Q
   * Before calling Q, P should pass one or more parameters to Q and Q must be able to return a value back to P
-  * Q may need extra memory to hold local value, can it must be able to free the storage after return value.
+  * Q may need extra memory to hold local value, and it must be able to free the storage after return value.
 
 * runtime stack
   * call Q, push %rsp at the top of stack to store the address in order to resume execution of P
