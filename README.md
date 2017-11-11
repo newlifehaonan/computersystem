@@ -49,12 +49,13 @@ CSC 406 SYSTEM I
 >>switch       
 
 * **Week8**
->Array     
->hetergeneous structur      
+>Array          
 >procedure       
 
-
-
+* **Week9**
+>Struct 
+>hetergeneous structure
+>
 
 
 
