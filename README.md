@@ -54,7 +54,7 @@ CSC 406 SYSTEM I
 
 * **Week9**     
 >hetergeneous structure              
->>struct
+>>struct       
 >>union
 
 
