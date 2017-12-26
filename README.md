@@ -1,8 +1,7 @@
 
 Computer System
 =====
-DePaul university    
-CDM Computer Science     
+Computer Science     
 CSC 406 SYSTEM I
 -----
 * **Week1**    
