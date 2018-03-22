@@ -1,0 +1,7 @@
+catch
+cat
+kitten
+catapult
+calculus
+caterpillar
+someRandomAssMisspelling
